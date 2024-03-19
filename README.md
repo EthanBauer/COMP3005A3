@@ -5,6 +5,11 @@ Assignment3.py - python application
 
 Assignment3.sql - source code for postgresql setup
 
+## Setup instructions:
+1. Open pgadmin4
+2. Right click Databases, enter the name for the database as Assignment3
+3. Right click Assignment3 database, 
+
 
 ## Instructions to execute:
 1. Open postgresql and run the Assignment3.sql code in a query editor.
