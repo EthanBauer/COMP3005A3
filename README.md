@@ -7,7 +7,7 @@ Assignment3.sql - source code for postgresql setup
 
 ## Setup instructions:
 1. Open pgadmin4
-2. Right click Databases, enter the name for the database as Assignment3
+2. Right click Databases, create, database, enter the name for the database as Assignment3
 3. Right click Assignment3 database, then query tool
 4. Copy the text from Assignment3.sql into the query tool.
 5. Execute the query.
