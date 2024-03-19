@@ -13,7 +13,7 @@ Assignment3.sql - source code for postgresql setup
 5. Execute the query.
 
 
-## Instructions to execute:
+## Instructions to execute the program:
 1. Open postgresql and run the Assignment3.sql code in a query editor.
 
 2. (for mac): save Assignment3.py application to downloads folder.
